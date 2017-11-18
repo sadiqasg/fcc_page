@@ -1,0 +1,68 @@
+/* === fontawesome === */
+@import url('font-awesome.min.css');
+
+
+body {
+	font-family: sans-serif, 'Open Sans', Arial;
+	font-size:14px;
+	font-weight:300;
+	line-height:1.6em;
+	color:#000;
+	background-color: #e0ffff;
+}
+
+
+
+.navbar-nav > li > a {	
+	margin-bottom:5px;
+	margin-right: 20px;
+	line-height: 1.42857143;
+	border-bottom: 3px solid transparent;
+	border-radius:0;
+	color:#000;
+	border-top:0;
+	border-right:0;
+	border-left:0;	
+}
+
+
+.section-padding1
+{
+	padding: 50px 60px;
+	background-color: #696;
+
+}
+
+.section-padding2
+{
+	padding: 50px 60px;
+	background-color: #fff;
+}
+
+.section-padding3
+{
+	padding: 50px 60px;
+	background-color: #696;
+}
+
+.footer {
+	background-color: #366;
+	color: #000;
+	padding: 10px 0 5px;
+}
+
+#navcolor {
+	background-color: #366;
+
+}
+
+.caption {
+	padding-top: 10px;
+	text-align: center;
+	border-width: 3px;
+	border-style: groove;
+}
+
+#wait {
+	cursor: wait;
+}
